@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-image: url(https://img.freepik.com/premium-photo/web-development-coding-programming-site-application-laptop_272306-16.jpg);
+}
+img {
+    height: 150px;
+    width: 250px;
+    float: left;
+    border-radius: 20px;
+    border: solid 1px;
+    box-shadow: 5px 5px 5px 0px rgb(105, 154, 154);
+}
+p {
+    font-size: 1rem;
+    padding: 10px;
+    margin-left: 17rem;
+
+}
+.header1 {
+    margin-left: 18rem;
+    font-size: 25px;
+    color: rgb(5, 245, 245);
+}
+.main-header {
+    text-align: center;
+    font-size: 4rem;
+    color: whitesmoke;
+    font-family: 'Rubik Burned', system-ui;  
+}
+.paragraph1{
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.274);
+    margin: 50px;
+    padding: 20px;
+}
+.info {
+    background-color: aqua;
+    border-radius: 15px;
+    margin-left: 40rem;
+    padding: 7px;
+    text-decoration: none;
+    box-shadow: 5px 5px 5px 0px rgb(105, 154, 154);
+    
+}
+
+.info:hover {
+    color: whitesmoke;
+}
+.info:active {
+    box-shadow: inset 0 0 10px rgb(105, 154, 154);
+
+}
